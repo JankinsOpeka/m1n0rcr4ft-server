@@ -1,3 +1,4 @@
 # m1n0rcr4ft-server
-Minecraft Server
-Server Address: Coming soon`
+## Minecraft Server IP
+Soon
+
